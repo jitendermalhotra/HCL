@@ -1,0 +1,10 @@
+http://mirror.nbrc.ac.in/centos/7.5.1804/os/x86_64/
+http://centos.excellmedia.net/7.5.1804/os/x86_64/
+http://mirrors.fibergrid.in/centos/7.5.1804/os/x86_64/
+http://mirror.vbctv.in/centos/7.5.1804/os/x86_64/
+http://centos.mirror.snu.edu.in/centos/7.5.1804/os/x86_64/
+http://del-repos.extreme-ix.org/centos/7.5.1804/os/x86_64/
+http://mirror.xeonbd.com/centos/7.5.1804/os/x86_64/
+http://centos.myfahim.com/centos/7.5.1804/os/x86_64/
+http://mirror.dhakacom.com/centos/7.5.1804/os/x86_64/
+http://mirror.ehost.vn/centos/7.5.1804/os/x86_64/
